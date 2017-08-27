@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="lwjgl-assimp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-assimp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-bgfx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-egl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-glfw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-jawt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-jemalloc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-lmdb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-nanovg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-nfd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-nuklear.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-opencl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-opengl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-opengles.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-openvr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-par.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-sse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-stb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-tinyexr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-tinyfd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-vulkan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-xxhash.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-yoga.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

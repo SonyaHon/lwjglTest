@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lwjgl-assimp-natives-macos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-assimp-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-bgfx-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-glfw-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-jemalloc-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-lmdb-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-nanovg-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-nfd-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-nuklear-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-openal-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-opengl-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-opengles-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-openvr-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-par-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-sse-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-stb-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-tinyexr-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-tinyfd-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-xxhash-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-yoga-natives-macos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
